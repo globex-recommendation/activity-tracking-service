@@ -35,6 +35,7 @@ public class ActivityTrackingResourceTest {
                 + "  },"
                 + "  \"actionInfo\": {"
                 + "    \"productId\": \"a12345\","
+                + "    \"category\": \"cat123456\","
                 + "    \"search\": \"waterbottle\","
                 + "    \"searchCat\": \"swag\""
                 + "  }"
